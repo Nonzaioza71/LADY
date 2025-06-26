@@ -1,6 +1,6 @@
-L.A.D.Y.(Logical Autonomous Digital Yield)
+# [EN]
 
-# 👩‍💻 L.A.D.Y. - Lyrical Adaptive Data Yielder
+# 👩‍💻 L.A.D.Y. - Logical Autonomous Digital Yield
 
 **Your intelligent, lyrical, and responsive assistant.**  
 L.A.D.Y. is an adaptive AI assistant with a soothing voice and dynamic capabilities — designed to understand, respond, and assist with human-like interaction.
@@ -12,7 +12,7 @@ L.A.D.Y. is an adaptive AI assistant with a soothing voice and dynamic capabilit
 
 ## 🧠 About
 
-**L.A.D.Y. (Lyrical Adaptive Data Yielder)** is a conversational AI framework with a sweet voice and strong reasoning capabilities.  
+**L.A.D.Y. (Logical Autonomous Digital Yield)** is a conversational AI framework with a sweet voice and strong reasoning capabilities.  
 Designed for use in real-time voice applications, virtual assistance, automation tasks, and smart environments.
 
 - 🎤 Voice synthesis with natural tone  
@@ -37,7 +37,7 @@ Designed for use in real-time voice applications, virtual assistance, automation
 
 ## 🚀 Getting Started
 
-```bash
+
 # Clone the repo
 git clone https://github.com/Nonzaioza71/lady.git
 cd lady
@@ -49,7 +49,8 @@ pip install -r requirements.txt
 python run.py
 
 
-# 👩‍💻 L.A.D.Y. - Lyrical Adaptive Data Yielder
+# [TH]
+# 👩‍💻 L.A.D.Y. - Logical Autonomous Digital Yield
 
 **ผู้ช่วยอัจฉริยะที่เสียงหวาน ฉลาด และตอบสนองได้อย่างเป็นธรรมชาติ**
 
@@ -63,7 +64,7 @@ python run.py
 
 ## 🧠 เกี่ยวกับโปรเจกต์
 
-**L.A.D.Y. (Lyrical Adaptive Data Yielder)**  
+**L.A.D.Y. (Logical Autonomous Digital Yield)**  
 คือเฟรมเวิร์กสำหรับผู้ช่วย AI ที่สามารถสนทนาได้อย่างลื่นไหล พร้อมด้วยน้ำเสียงที่เป็นธรรมชาติและความสามารถในการวิเคราะห์ข้อมูลขั้นสูง
 
 ออกแบบมาเพื่อใช้งานกับ:
@@ -94,7 +95,6 @@ python run.py
 
 ## 🚀 วิธีเริ่มต้นใช้งาน
 
-```bash
 # ดาวน์โหลดโปรเจกต์
 git clone https://github.com/Nonzaioza71/lady.git
 cd lady
